@@ -29,7 +29,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook 1](https://github.com/aditya-prabhu-21/WorldCupMarketValueAnalysis/blob/main/WorldCupAnalysis.ipynb)
 - [Link to notebook 2]()
 - [Link to notebook 3]()
 
